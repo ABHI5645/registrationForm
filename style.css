@@ -1,0 +1,27 @@
+.container{
+    margin-top: 30px;
+    text-align: center;
+}
+.registration-form{
+    width: 900px;
+    margin:auto;
+}
+.submit-btn{
+    text-align: center;
+}
+body{
+background: linear-gradient(to right, #b92b27, #1565c0);
+}
+.container{
+   margin-top: 140px;
+}
+.form-label{
+    font-size: 25px;
+}
+.invalid-feedback{
+    font-size: larger
+    
+}
+.valid-feedback{
+    font-size: larger;
+}
